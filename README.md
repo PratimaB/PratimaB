@@ -1,4 +1,5 @@
 ### Hi there 👋
+### I'm a passionate Full Stack Developer with over 9 years of experience in developing scalable web and mobile applications. I work in desige and development of database applications ,data analysis, Restful APIs with Amazon WEB services.
 
 <!--
 **PratimaB/PratimaB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
