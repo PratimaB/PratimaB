@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**PratimaB/PratimaB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hi, I am a Versatile and detail-oriented Full-Stack Developer with over 10 years of experience building scalable web and database solutions. Adept at system design, backend architecture, and implementing modern front-end interfaces. Proven track record of delivering custom solutions across manufacturing, healthcare, and enterprise sectors.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+**Frontend:**  
+- React.js  
+- HTML5  
+- CSS3  
+- JavaScript  
+
+**Backend:**  
+- Node.js  
+- Python  
+- .NET  
+- C#  
+
+**Database:**  
+- PostgreSQL  
+- MySQL  
+- SQL Server  
+
+**Cloud & DevOps:**  
+- AWS (EC2, S3, RDS)  
+- RESTful APIs  
+
+**Tools:**  
+- Git  
+- Postman  
+- VS Code  
